@@ -73,7 +73,7 @@ section {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 100vh;    
+    height: 90vh;    
 }
 
 .text-content h5 {
@@ -133,8 +133,8 @@ section {
 }
 
 .image-section img {
-    height: 35vw;
-    width: 40vw;
+    height: 30vw;
+    width: 30vw;
     animation: Bounce 4s ease forwards infinite;
 }
 
@@ -156,7 +156,7 @@ section {
     filter: blur(5px);
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0,0,0,.4);
-    width: 40vw;
+    width: 30vw;
     animation: BounceIn ease 4s forwards infinite;
 }
 
